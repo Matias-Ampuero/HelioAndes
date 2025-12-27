@@ -1,4 +1,4 @@
-# 📡 HelioAndes - Plataforma de Servicios
+# 🌞 HelioAndes - Plataforma de Servicios
 
 Aplicación web Single Page Application (SPA) desarrollada con **React** que simula el portal de una empresa de telecomunicaciones/servicios. El proyecto demuestra la capacidad de crear interfaces complejas separando la vista pública (Landing) del área privada (Dashboard).
 
